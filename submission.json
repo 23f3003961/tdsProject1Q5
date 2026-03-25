@@ -1,7 +1,7 @@
 {
-  "prompt": "your complete final prompt, verbatim — include any negative prompts, style weights, or model parameters",
-  "model": "model name and version, e.g. Midjourney v6.1, DALL·E 3, Flux Pro 1.1",
-  "dataset_name": "name of the dataset",
-  "dataset_url": "direct URL or full citation",
-  "insight": "one sentence: the specific insight you were trying to make visible"
+  "prompt": "A vast barren cracked desert under a dark stormy sky, multiple identical human statues scattered into the distance, one central figure disintegrating into dust and digital fragments blowing away in the wind, subtle glowing data particles embedded within the body, surreal, philosophical, cinematic lighting, volumetric clouds, depth of field, ultra-detailed textures, muted tones, existential mood, 8k, --no color vibrance, no modern objects, no text, no noise",
+  "model": "Gemini Image Generation",
+  "dataset_name": "Levels and Trends in Child Mortality 2025",
+  "dataset_url": "https://data.unicef.org/resources/levels-and-trends-in-child-mortality-2025/",
+  "insight": "Despite overall global progress, millions of children still die from preventable causes, revealing how survival is uneven and fragile across populations."
 }
