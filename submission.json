@@ -1,0 +1,7 @@
+{
+  "prompt": "your complete final prompt, verbatim — include any negative prompts, style weights, or model parameters",
+  "model": "model name and version, e.g. Midjourney v6.1, DALL·E 3, Flux Pro 1.1",
+  "dataset_name": "name of the dataset",
+  "dataset_url": "direct URL or full citation",
+  "insight": "one sentence: the specific insight you were trying to make visible"
+}
